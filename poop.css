@@ -1,0 +1,10 @@
+body, #meat {
+	background: #020609;
+	overflow: hidden;
+}
+
+#meat {
+	width: auto !important;
+}
+
+img { position: absolute; }
